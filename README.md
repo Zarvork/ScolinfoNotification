@@ -1,6 +1,8 @@
 # ScolinfoNotification
 Ce programme permet de vous envoyer un mail et de vous envoyer une notification sur votre portable (si vous le souhaitez) dès qu'une nouvelle note est ajouté dans votre relevé (en tant qu'élève) sur Scolinfo
 
+Lien vers la version en .exe (compressé) : https://mega.nz/file/TlxiRCJK#uaxlBhsTElYxihGgNqgefe0DnAxicpbdFNps5sXqwXI
+
 Prérequis : 
 
 1. Il faut avoir Google Chrome
